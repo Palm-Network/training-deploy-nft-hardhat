@@ -1,10 +1,13 @@
-# Training material on how to deploy a contract on Palm
+# Training material: How to deploy a contract on Palm
 
-Training material for Palm documentation. Support those who want learn how to deploy a contract on Palm using Hardhat/Ethers.js
+Training code for Palm documentation. This repo aims at supporting those learning how to deploy a contract on Palm using `Hardhat` and `Ethers.js`
 
-Detailed instructions can be found at  https://docs.palm.io/HowTo/Deploy-using-Hardhat/.
+## For use as training material
 
-## For standalone use:
+Clone this repo and follow instructions at https://docs.palm.io/HowTo/Deploy-using-Hardhat/.
+
+## For standalone use
+
 
 ### Installation
 
