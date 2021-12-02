@@ -7,9 +7,9 @@ This repo contains all the finished code explained at: https://docs.palm.io/HowT
 
 ### Installation
 
-```
-$ npm install
-```
+        ```
+        npm install
+        ```
 
 ### Configuration
 
@@ -19,12 +19,12 @@ Add an `.env` file matching the variables found in `hardhat.config.js`
 
 #### Deployment to Palm Testnet:
 
-        ```bash
+        ```
         npx hardhat run scripts/deploy.js --network palm_testnet
         ```
 
 #### Deployment to Palm Mainnet:
 
-        ```bash
+        ```
         npx hardhat run scripts/deploy.js --network palm_mainnet
         ```
